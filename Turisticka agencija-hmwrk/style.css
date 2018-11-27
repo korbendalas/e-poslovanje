@@ -59,8 +59,14 @@ img {
 font-style: italic;
 
 }
+.left-div h3{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 25px;
+}
 .left-div ol{
     color: blue;
+    margin-left:-15px;
 }
 .left-div ul{
     color: black;
@@ -112,4 +118,8 @@ footer {
     padding-bottom: 10px;
     font-style: italic;
     border-top: 3px solid white;
+    
+}
+footer >h3{
+    font-size: 25px;
 }
