@@ -1,0 +1,115 @@
+body {
+
+    width:60%;
+    margin: 0 auto;
+    padding: 0px;
+    font-weight: bold;
+}
+
+.header {
+    background-color: #8c8c8c;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+
+.header2 {
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-style: italic;
+
+    display: flex;
+
+}
+.header2 img {
+    height: 140px;
+    width:184px;
+    padding: 0 30px;
+}
+.header2__main{
+    width: 590px;
+    font-size: 20px;
+    margin: auto auto;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    padding: 0%;
+}
+
+img {
+    height: 400px;
+    width: 200px;
+}
+
+
+.left-div, .right-div {
+    width:300px;
+    background-color: #d9d9d9;
+}
+
+.left-div{
+font-style: italic;
+
+}
+.left-div ol{
+    color: blue;
+}
+.left-div ul{
+    color: black;
+}
+.ul-zimovanja{
+    list-style-type: square;
+}
+.ul-izleti{
+    list-style-type: disc;
+}
+
+
+.form {
+    width: 100%;
+    background-color: #f2f2f2;  
+   
+}
+.td-prtljag{
+    padding-left: 0;
+}
+
+.ugnjezdena-tabela{
+    margin-left: 0;
+}
+
+
+table{
+    margin: 0 auto;
+}
+
+th, td {
+    padding: 7px;
+}
+
+th{
+    text-align: center;
+}
+.button{
+
+    margin:auto;
+  display:block;
+}
+
+footer {
+
+    text-align: center;
+    background-color: #8c8c8c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-style: italic;
+    border-top: 3px solid white;
+}
